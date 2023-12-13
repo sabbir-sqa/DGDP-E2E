@@ -1,2 +1,2 @@
 # DGDP E2E
- DGDP Back and Front tests will be added gradually
+ DGDP End to End compoments will be tested
